@@ -1,0 +1,2 @@
+*Malin Gissberg läser PHP MVC2 som fristående kurs. Hon är sedan mars 2014 föräldraledig från sitt jobb som utvecklare i Stockholm. Malin har tidigare läst flertalet kurser på Blekinge Tekniska Högskola såsom Webbutveckling 2 ( PHP),
+ Databasteknik, Grundläggande företagsekonomi, IT-juridik, Inledande programmering i Java, Grundkurs IT, Informationssäkerhet samt Säkerhet hos människor och datorer.*
