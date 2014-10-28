@@ -60,7 +60,7 @@ return [
         'lang' => 'sv',
 
         // Append this value to each <title>
-        'title_append' => ' | Anax a web template',
+        'title_append' => ' | Malins me-sida',
 
         // Stylesheets
         'stylesheets' => ['css/style_me.css', 'css/navbar_me.css', 'http://fonts.googleapis.com/css?family=Abel'],
@@ -78,10 +78,13 @@ return [
         'jquery' => '//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js',
 
         // Array with javscript-files to include
-        'javascript_include' => [],
+        'javascript_include' => ['js/me/script.js'],
 
         // Use google analytics for tracking, set key or null to disable
         'google_analytics' => null,
+
+        //functions
+        'functions' => 'functions/functions.php',
     ],
 ];
 
